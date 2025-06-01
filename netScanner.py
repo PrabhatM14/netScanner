@@ -1,5 +1,3 @@
-# filepath: /netScanner/netScanner/netScanner.py
-
 import socket
 import ipaddress
 import threading
